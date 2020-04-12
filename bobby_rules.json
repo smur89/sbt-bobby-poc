@@ -1,13 +1,6 @@
 {
   "libraries": [
     {
-      "organisation": "com.typesafe.akka",
-      "name": "akka-actor",
-      "range": "(,2.7.0)",
-      "reason": "Upgrade now ye pricks!",
-      "from": "2019-03-04"
-    },
-    {
       "organisation": "io.monix",
       "name": "monix-*",
       "range": "(,3.1.0)",
