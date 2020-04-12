@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "organisation": "com.typesafe.akka",
+      "name": "akka-actor",
+      "range": "(,2.5.30]",
+      "reason": "Upgrade ye pricks!",
+      "from": "2019-03-04"
+    },
+    {
+      "organisation": "io.monix",
+      "name": "monix-*",
+      "range": "(,3.1.0)",
+      "reason": "Upgrade ye pricks!",
+      "from": "2019-03-04"
+    },
+    {
+      "organisation": "org.tpolecat",
+      "name": "doobie-*",
+      "range": "(,0.8.8)",
+      "reason": "Upgrade ye pricks!",
+      "from": "2019-03-04"
+    }
+  ],
+  "plugins": []
+}
