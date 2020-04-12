@@ -24,7 +24,7 @@
     {
       "organisation": "io.circe",
       "name": "circe-*",
-      "range": "(,0.14.0]",
+      "range": "(,0.14.0)",
       "reason": "Upgrade before the end of the year",
       "from": "2021-01-01"
     }
