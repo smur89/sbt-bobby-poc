@@ -3,7 +3,7 @@
     {
       "organisation": "com.typesafe.akka",
       "name": "akka-actor",
-      "range": "(,2.6.0)",
+      "range": "(,2.7.0)",
       "reason": "Upgrade ye pricks!",
       "from": "2019-03-04"
     },
