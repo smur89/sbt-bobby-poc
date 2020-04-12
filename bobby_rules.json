@@ -20,6 +20,13 @@
       "range": "(,0.8.8)",
       "reason": "Upgrade ye pricks!",
       "from": "2019-03-04"
+    },   
+    {
+      "organisation": "io.circe",
+      "name": "circe-*",
+      "range": "(,0.13.0)",
+      "reason": "Upgrade before the end of the year",
+      "from": "2021-01-01"
     }
   ],
   "plugins": []
