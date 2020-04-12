@@ -1,6 +1,13 @@
 {
   "libraries": [
     {
+      "organisation": "com.coya",
+      "name": "hunghung-*",
+      "range": "(,15.11.0)",
+      "reason": "Breaking changes, e.g. Enum additions",
+      "from": "2020-04-11"
+    },
+     {
       "organisation": "com.typesafe.akka",
       "name": "akka-actor",
       "range": "(,2.7.0)",
