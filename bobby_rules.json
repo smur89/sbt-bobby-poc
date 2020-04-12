@@ -4,7 +4,7 @@
       "organisation": "com.typesafe.akka",
       "name": "akka-actor",
       "range": "(,2.7.0)",
-      "reason": "Upgrade ye pricks!",
+      "reason": "Upgrade now ye pricks!",
       "from": "2019-03-04"
     },
     {
@@ -24,7 +24,7 @@
     {
       "organisation": "io.circe",
       "name": "circe-*",
-      "range": "(,0.13.0]",
+      "range": "(,0.14.0]",
       "reason": "Upgrade before the end of the year",
       "from": "2021-01-01"
     }
